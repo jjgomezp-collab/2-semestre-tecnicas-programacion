@@ -21,7 +21,7 @@ class Persona {
     }
 }
 
-public class ejemplo_encapsulacion {
+public class Main {
     public static void main(String[] args) {
         Persona persona = new Persona();
         persona.setNombre("Jostyn");
@@ -31,4 +31,3 @@ public class ejemplo_encapsulacion {
         System.out.println("Edad: " + persona.getEdad());
     }
 }
-
