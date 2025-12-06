@@ -20,4 +20,3 @@ public class ejemplo_abstraccion {
         miPerro.dormir();
     }
 }
-
