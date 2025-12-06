@@ -13,7 +13,7 @@ class Perro extends Animal {
     }
 }
 
-public class ejemplo_abstraccion {
+public class Main {
     public static void main(String[] args) {
         Animal miPerro = new Perro();
         miPerro.hacerSonido();
