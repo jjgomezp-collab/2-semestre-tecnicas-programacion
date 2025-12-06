@@ -10,11 +10,10 @@ class Carro extends Vehiculo {
     }
 }
 
-public class ejemplo_herencia {
+public class Main {
     public static void main(String[] args) {
         Carro miCarro = new Carro();
         miCarro.arrancar();
         miCarro.tocarBocina();
     }
 }
-
