@@ -18,7 +18,7 @@ class Gato extends Animal {
     }
 }
 
-public class ejemplo_polimorfismo {
+public class Main {
     public static void main(String[] args) {
         Animal animal1 = new Perro();
         Animal animal2 = new Gato();
@@ -27,4 +27,3 @@ public class ejemplo_polimorfismo {
         animal2.hacerSonido();
     }
 }
-
